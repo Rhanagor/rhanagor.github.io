@@ -185,6 +185,11 @@
   50% { border-color: orange; }
 }
 
+/* boton go up */
+body{
+	position:relative;
+}
+
 .goup{
 	background:#76aadb;
 	bottom:0px;
